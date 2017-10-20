@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     bool believeICanFly = true,
-         // Everything except for false and 0 evaluates to true
+         // Everything that doesn't evaluate to 0 evaluates to 1 (true)
          cool           = "beans";
 
     cout << "Boolean values are really just 1's and 0's: " << believeICanFly
