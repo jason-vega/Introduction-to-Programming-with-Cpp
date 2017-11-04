@@ -1,4 +1,4 @@
-#include <iostream> // Allows us to access std::cin
+#include <iostream>
 #include <string>
 #include <sstream> // Allows us to use stringstreams
 
